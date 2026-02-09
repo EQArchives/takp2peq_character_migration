@@ -1,0 +1,12 @@
+astroid==4.0.3
+dill==0.4.1
+dotenv==0.9.9
+isort==7.0.0
+mccabe==0.7.0
+platformdirs==4.5.1
+pylint==4.0.4
+PyMySQL==1.1.2
+python-dotenv==1.2.1
+SQLAlchemy==2.0.45
+tomlkit==0.14.0
+typing_extensions==4.15.0
